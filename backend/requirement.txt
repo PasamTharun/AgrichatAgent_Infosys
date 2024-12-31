@@ -1,0 +1,21 @@
+# langchain
+#langchain-community
+#langchain-google-genai
+#flask
+# flask-socketio
+# python-dotenv
+# gunicorn
+# requests
+# eventlet
+# flask-cors
+# langchain
+# openai
+# langchain-core>=0.3.0,<0.4
+# langchain-community
+# langchain-openai
+# Flask-WTF
+flask
+langchain
+langchain-google-genai
+dotenv
+spacy
