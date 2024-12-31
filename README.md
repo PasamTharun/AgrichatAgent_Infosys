@@ -1,5 +1,3 @@
-# AgrichatAgent_Infosys
-
 # 🌾 AgriChatAgent: Your AI-Powered Farming Companion
 
 AgriChatAgent is an intelligent and user-friendly assistant designed to revolutionize the agricultural experience for farmers and enthusiasts. It leverages AI to provide tailored advice on crop care, pest management, and sustainable farming solutions. With its conversational interface and smart recommendations, AgriChatAgent empowers farmers to optimize their farming practices effectively and sustainably.
@@ -63,20 +61,28 @@ AgriChatAgent is an intelligent and user-friendly assistant designed to revoluti
 
 ## 💻 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PasamTharun/AgrichatAgent_Infosys.git
-   cd AgrichatAgent_Infosys
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
-4. Open the app in your browser and explore the features!
+### Clone the repository:
+```bash
+git clone https://github.com/PasamTharun/AgrichatAgent_Infosys.git
+cd AgrichatAgent_Infosys
+```
+### Create a Virtual Environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+### Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Run the application:
+```bash
+streamlit run streamlit_app.py
+```
+
+### Open the app in your browser and explore the features!
 
 ---
 
